@@ -1,0 +1,8 @@
+print(" my friends name")
+print("name:gokila")
+print("name:kishore")
+print("name:vasanth")
+print("name:madhesh")
+print("name:kailash")
+print("name:dhanvik")
+print("name:dhanu")
